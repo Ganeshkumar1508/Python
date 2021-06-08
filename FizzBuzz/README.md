@@ -1,6 +1,6 @@
-#FIZZBUZZ
+# FIZZBUZZ
 FizzBuzz is a game that is popular among kids. By playing this, kids learn the division.
-#Rules of the FizzBuzz Game
+# Rules of the FizzBuzz Game
 The rules of the FizzBuzz game are very simple.
   * Say Fizz if the number is divisible by 3.
   * Say Buzz if the number is divisible by 5.
